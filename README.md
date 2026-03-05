@@ -53,7 +53,7 @@ I personally worked on the overall architecture of the project, including the de
 
 I would also like to thank **Hamza Tahri** for his work on the operator gesture detection program, and **Semoug Mouad** for developing the camera calibration program.
 
-Finally, I would like to acknowledge the modeling team — **Sebti Douae** and **Ramdani Souha** — for their work on the CAD design of the robot and the simulation of the disassembly scenario using **3DEXPERIENCE**. Their contributions were essential to the successful completion of this collaborative project.
+Finally, I would like to acknowledge the modeling team — **Sebti Douae** @douad-lgtm and **Ramdani Souha** — for their work on the CAD design of the robot and the simulation of the disassembly scenario using **3DEXPERIENCE**. Their contributions were essential to the successful completion of this collaborative project.
 
 ## Installation
 
@@ -99,5 +99,4 @@ Pillow
 mediapipe
 ```
 
-@duaS
-@douad-lgtm
+
