@@ -24,5 +24,9 @@ Here's a breakdown of the key areas we'll be focusing on:
 
 The ultimate aim is to showcase how collaborative robotics can significantly enhance industrial processes, specifically in areas like recycling, maintenance, and product disassembly.
 
+[![Voir la vidéo](https://www.youtube.com/watch?v=9u7nuZ9OHc0)]
+[![Voir la vidéo](https://www.youtube.com/watch?v=f7UhQudZ7B0)]
+[![Voir la vidéo](https://www.youtube.com/watch?v=zVySbl7mqOA)]
+
 @duaS
 @douad-lgtm
