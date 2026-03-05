@@ -55,7 +55,15 @@ I would also like to thank **Hamza Tahri** for his work on the operator gesture 
 
 Finally, I would like to acknowledge the modeling team — **Sebti Douae** and **Ramdani Souha** — for their work on the CAD design of the robot and the simulation of the disassembly scenario using **3DEXPERIENCE**. Their contributions were essential to the successful completion of this collaborative project.
 
+## Installation
 
+Follow these steps to install the required dependencies and run the project.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/he374/Human-robot-Collaborative-desassembly.git
+cd Human-robot-Collaborative-desassembly
 
 @duaS
 @douad-lgtm
