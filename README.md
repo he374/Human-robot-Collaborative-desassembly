@@ -65,5 +65,32 @@ Follow these steps to install the required dependencies and run the project.
 git clone https://github.com/he374/Human-robot-Collaborative-desassembly.git
 cd Human-robot-Collaborative-desassembly
 ```
+### 2. Create a Python virtual environment (recommended)
+```bash
+python -m venv venv
+```
+Activate the environment:
+
+**Linux / macOS**
+```bash
+source venv/bin/activate
+```
+**Windows**
+```bash
+venv\Scripts\activate
+```
+### 3. Install required Python packages
+```bash
+pip install -r requirements.txt
+```
+### 4. Run the application
+```bash
+cd App_Monitoring_HRC
+python HRC.py
+```
+### Requirements
+
+
+
 @duaS
 @douad-lgtm
