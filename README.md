@@ -17,10 +17,10 @@ The project is organised in two major sections.
 Here's a breakdown of the key areas we'll be focusing on:
 
   A.Modeling and Simulation:
-    We'll start by designing the collaborative robotic cell. This involves simulating various scenarios to understand how the robot and humans will interact. We'll pay close attention to      safety zones and how humans and robots will work together.
+    We started by designing the collaborative robotic cell. This involves simulating various scenarios to understand how the robot and humans will interact. We payed close attention to      safety zones and how humans and robots will work together.
     
   B.Vision and Interaction: 
-    Next, we'll use computer vision to detect objects. We'll track the disassembly process and use gesture recognition to enable seamless communication between humans and robots.
+    Next, we used computer vision to detect objects. We also tracked the disassembly process and used gesture recognition to enable seamless communication between humans and robots.
 
 The ultimate aim is to showcase how collaborative robotics can significantly enhance industrial processes, specifically in areas like recycling, maintenance, and product disassembly.
 
