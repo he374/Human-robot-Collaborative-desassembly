@@ -55,6 +55,8 @@ I would also like to thank **Hamza Tahri** for his work on the operator gesture 
 
 Finally, I would like to acknowledge the modeling team — **Sebti Douae** @douad-lgtm and **Ramdani Souha** — for their work on the CAD design of the robot and the simulation of the disassembly scenario using **3DEXPERIENCE**. Their contributions were essential to the successful completion of this collaborative project.
 
+I would also like to express my sincere gratitude to the professors and research staff at **INSA Hauts-de-France** for their guidance and support throughout the project. In particular, I would like to thank Prof. **Pierre Pacaux-Lemoine** and Prof. **Dominique Deneux** for their supervision and valuable advice. I also thank the PhD researcher **Sara Jacob** and the research engineer **Youssra Manita** for their support, insights, and encouragement during the development of this work.
+
 ## Installation
 
 Follow these steps to install the required dependencies and run the project.
