@@ -89,8 +89,15 @@ cd App_Monitoring_HRC
 python HRC.py
 ```
 ### Requirements
-
-
+```bash
+opencv-python
+numpy
+pyrealsense2
+ultralytics
+matplotlib
+Pillow
+mediapipe
+```
 
 @duaS
 @douad-lgtm
