@@ -50,7 +50,7 @@ These results are consistent with findings in collaborative robotics research, w
 Finally, we would like to thank all members of the team for their dedication and efforts throughout the project.
 Special thanks to **EL RHAFEL Haitem**, who worked on the global architecture of the project, including the cylinder traceability system (disassembly steps and detected parts using the YOLO segmentation model trained specifically for the cylinder also the creation of the database to train the model), the synchronization state machine between the traceability program and the operator gesture detection module, as well as camera calibration.
 
-We also thank **Hamza Tahri** for developing the operator gesture detection program, and Semoug Mouad for his work on camera calibration program.
+We also thank **Hamza Tahri** for developing the operator gesture detection program, and **Semoug Mouad** for his work on camera calibration program.
 
 Finally, we acknowledge the modeling team — Sebti **Douae** and **Ramdani Souha** — for their work on the CAO design of the robot and scenario simulation using **3DEXPERIENCE**.
 
