@@ -64,6 +64,6 @@ Follow these steps to install the required dependencies and run the project.
 ```bash
 git clone https://github.com/he374/Human-robot-Collaborative-desassembly.git
 cd Human-robot-Collaborative-desassembly
-
+```
 @duaS
 @douad-lgtm
