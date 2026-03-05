@@ -30,6 +30,11 @@ The ultimate aim is to showcase how collaborative robotics can significantly enh
 
 [![Voir la vidéo](https://img.youtube.com/vi/zVySbl7mqOA/0.jpg)](https://www.youtube.com/watch?v=zVySbl7mqOA)
 
+[![Voir la vidéo](https://img.youtube.com/vi/ELmnUNqyEkQ/0.jpg)](https://www.youtube.com/watch?v=ELmnUNqyEkQ)
+
+[![Voir la vidéo](https://img.youtube.com/vi/SiB9le508Pc/0.jpg)](https://www.youtube.com/watch?v=SiB9le508Pc)
+
+
 
 @duaS
 @douad-lgtm
