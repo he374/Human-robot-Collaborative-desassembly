@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pyrealsense2
+ultralytics
+matplotlib
+Pillow
+mediapipe
