@@ -47,13 +47,14 @@ Regarding the **modeling and simulation phase**, the robotic cell was designed u
 
 These results are consistent with findings in collaborative robotics research, which emphasize the importance of combining perception, interaction, and task planning for effective human–robot cooperation.
 
-Finally, we would like to express our sincere appreciation to all team members for their dedication and collective efforts throughout the project. This work was the result of strong teamwork, where each member contributed to different aspects of the system.
+Finally, I would like to express my sincere appreciation to all members of the team for their dedication and efforts throughout this project. This work was truly the result of effective teamwork, where each member contributed to different aspects of the system.
 
-In particular, **EL RHAFEL Haitem** contributed to the overall project architecture, including the development of the cylinder traceability system (tracking disassembly steps and detected components using a **YOLO** segmentation model trained specifically for the cylinder, as well as the creation of the dataset used for training). He also worked on the synchronization state machine between the traceability program and the operator gesture detection module, in addition to participating in the camera calibration process.
+I personally worked on the overall architecture of the project, including the development of the cylinder traceability system, which tracks the disassembly steps and the detected components using a **YOLO** segmentation model trained specifically for the cylinder. I was also responsible for creating the dataset used to train the model. In addition, I developed the synchronization state machine between the traceability program and the operator gesture detection module, and contributed to the camera calibration process.
 
-We also thank **Hamza Tahri** for his contribution to the development of the operator gesture detection program, and **Semoug Mouad** for his work on the camera calibration program.
+I would also like to thank **Hamza Tahri** for his work on the operator gesture detection program, and **Semoug Mouad** for developing the camera calibration program.
 
-Finally, we acknowledge the modeling team — **Sebti Douae** and **Ramdani Souha** — for their work on the CAD design of the robot and the simulation of the disassembly scenario using **3DEXPERIENCE**. Together, these complementary contributions made it possible to successfully develop and demonstrate the collaborative disassembly system.
+Finally, I would like to acknowledge the modeling team — **Sebti Douae** and **Ramdani Souha** — for their work on the CAD design of the robot and the simulation of the disassembly scenario using **3DEXPERIENCE**. Their contributions were essential to the successful completion of this collaborative project.
+
 
 
 @duaS
