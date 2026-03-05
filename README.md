@@ -35,6 +35,25 @@ The ultimate aim is to showcase how collaborative robotics can significantly enh
 [![Voir la vidéo](https://img.youtube.com/vi/SiB9le508Pc/0.jpg)](https://www.youtube.com/watch?v=SiB9le508Pc)
 
 
+### Conclusion and Results
+
+The results obtained in this project demonstrate the feasibility and potential of our **human–robot collaboration (HRC)** for assisted disassembly tasks. The developed system successfully computer vision, and human–machine interaction to support a human operator during the disassembly of an hydraulic cylinder prototype. Using the **ABB YuMi IRB 14000** and the **Intel RealSense D435**, the system was able to detect and track several components of the cylinder during the disassembly process.
+
+The trained **YOLO** segmentation model allowed the detection of different cylinder parts in real time. Although some minor detection errors may occur during live operation, this does not significantly affect the workflow. A dedicated **verification protocol** was implemented to confirm the disassembly state and ensure the reliability of the process. This additional validation layer allows the system to maintain accurate tracking of the operation despite occasional detection inaccuracies.
+
+An application was developed to manage the overall disassembly workflow. Based on the data received from the vision and interaction modules, the application follows a predefined disassembly plan. It displays this plan to the operator, monitors the current state of the cylinder, and provides notifications regarding the progress of the operation. At the same time, the system ensures that the collaborative robot operates safely alongside the human operator by synchronizing tasks and monitoring gestures.
+
+Regarding the **modeling and simulation phase**, the robotic cell was designed using CAD tools and integrated into a simulation environment. A disassembly scenario performed by the operator was implemented as an initial demonstration. Due to certain technical limitations related to the software environment, the current simulation scenario only includes the removal of two screws. Nevertheless, this represents a promising starting point and demonstrates the viability of the collaborative workflow.
+
+These results are consistent with findings in collaborative robotics research, which emphasize the importance of combining perception, interaction, and task planning for effective human–robot cooperation.
+
+Finally, we would like to thank all members of the team for their dedication and efforts throughout the project.
+Special thanks to **EL RHAFEL Haitem**, who worked on the global architecture of the project, including the cylinder traceability system (disassembly steps and detected parts using the YOLO segmentation model trained specifically for the cylinder also the creation of the database to train the model), the synchronization state machine between the traceability program and the operator gesture detection module, as well as camera calibration.
+
+We also thank **Hamza Tahri** for developing the operator gesture detection program, and Semoug Mouad for his work on camera calibration program.
+
+Finally, we acknowledge the modeling team — Sebti **Douae** and **Ramdani Souha** — for their work on the CAO design of the robot and scenario simulation using **3DEXPERIENCE**.
+
 
 @duaS
 @douad-lgtm
