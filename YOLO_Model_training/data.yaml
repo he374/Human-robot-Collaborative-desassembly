@@ -1,0 +1,15 @@
+
+path: C:\plp detection verin
+
+train: images/train
+val: images/val
+
+nc: 6
+
+names:
+  0: piece1
+  1: piece2
+  2: piece3
+  3: piece4
+  4: piece5
+  5: piece6
